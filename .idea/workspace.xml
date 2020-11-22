@@ -22,11 +22,9 @@
     <select />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="4f7558e2-affc-422a-9fe2-d3c75b3eea89" name="Default Changelist" comment="adding .gitignore">
-      <change afterPath="$PROJECT_DIR$/config/covid-helper.js" afterDir="false" />
+    <list default="true" id="4f7558e2-affc-422a-9fe2-d3c75b3eea89" name="Default Changelist" comment="imp: added simple conversation logic">
+      <change afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/config/default.json" beforeDir="false" afterPath="$PROJECT_DIR$/config/default.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/index.js" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -76,7 +74,7 @@
       <option name="presentableId" value="Default" />
       <updated>1605973504223</updated>
       <workItem from="1605973505474" duration="689000" />
-      <workItem from="1605974247912" duration="11016000" />
+      <workItem from="1605974247912" duration="12492000" />
     </task>
     <task id="LOCAL-00001" summary="adding .gitignore">
       <created>1605974368683</created>
@@ -85,7 +83,14 @@
       <option name="project" value="LOCAL" />
       <updated>1605974368683</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="imp: added simple conversation logic">
+      <created>1606044044576</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1606044044576</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -104,7 +109,8 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="adding .gitignore" />
-    <option name="LAST_COMMIT_MESSAGE" value="adding .gitignore" />
+    <MESSAGE value="imp: added simple conversation logic" />
+    <option name="LAST_COMMIT_MESSAGE" value="imp: added simple conversation logic" />
   </component>
   <component name="WindowStateProjectService">
     <state x="542" y="-650" key="#ESLint" timestamp="1605974831776">
@@ -119,10 +125,10 @@
       <screen x="-255" y="-1080" width="1920" height="1080" />
     </state>
     <state x="89" y="-992" key="SettingsEditor/0.0.1440.900/-255.-1080.1920.1080@-255.-1080.1920.1080" timestamp="1605974828603" />
-    <state x="205" y="-852" key="Vcs.Push.Dialog.v2" timestamp="1605974370123">
+    <state x="205" y="-852" key="Vcs.Push.Dialog.v2" timestamp="1606044046002">
       <screen x="-255" y="-1080" width="1920" height="1080" />
     </state>
-    <state x="205" y="-852" key="Vcs.Push.Dialog.v2/0.0.1440.900/-255.-1080.1920.1080@-255.-1080.1920.1080" timestamp="1605974370123" />
+    <state x="205" y="-852" key="Vcs.Push.Dialog.v2/0.0.1440.900/-255.-1080.1920.1080@-255.-1080.1920.1080" timestamp="1606044046002" />
     <state x="286" y="-1032" width="838" height="1032" key="search.everywhere.popup" timestamp="1606041623748">
       <screen x="-255" y="-1080" width="1920" height="1080" />
     </state>
